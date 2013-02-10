@@ -1,0 +1,41 @@
+digraph G{
+  
+ 
+ subgraph clusterdirection {
+label="direction";
+f [label="direction"];
+d-> f;
+b-> f;
+ b [label="resp financier (comptable)",shape=box,fillcolor="palegreen",style="filled"];
+d [label="resp technique (chef chantier)", shape=box, fillcolor="palegreen", style="filled"];
+
+};
+
+subgraph clusteretude {
+label="bureau d'études";
+g [label="bureau études"];
+ a [label="plans + télémaintenance",shape=box,fillcolor="palegreen",style="filled"];
+  c [label="secrétaire" shape=box, fillcolor="palegreen", style="filled"];
+a->g;
+c->g;
+ 
+
+  
+  };
+f->g
+
+
+ 
+
+  
+ 
+
+ subgraph clustertech{ 
+ label="techniciens"; 
+  h [label="techniciens"];
+  e [label="techniciens" shape=box, fillcolor="palegreen", style="filled" ];
+  e->h;
+}
+f->h;
+};
+ 
