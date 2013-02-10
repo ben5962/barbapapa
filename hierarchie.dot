@@ -6,7 +6,11 @@ label="direction";
 f [label="direction"];
 d-> f;
 b-> f;
+subgraph clusterstage{
+label="comptabilité"
+i [label="stagiaire", shape="box"];
  b [label="resp financier (comptable)",shape=box,fillcolor="palegreen",style="filled"];
+};
 d [label="resp technique (chef chantier)", shape=box, fillcolor="palegreen", style="filled"];
 
 };
