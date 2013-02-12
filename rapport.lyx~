@@ -1,0 +1,235 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language french
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language french
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+stage de BTS de comptabilité
+\end_layout
+
+\begin_layout Part
+remerciements
+\end_layout
+
+\begin_layout Part
+motivations
+\end_layout
+
+\begin_layout Standard
+Ce stage s'est déroulé dans une entreprise dont le gérant est l'ancien comptable
+, et ce fût volontaire: J'ai suivi cette formation de BTS cgo non seulement
+ pour me reconvertir à court terme, mais aussi pour commencer à me donner
+ les moyens d'entreprendre à moyer terme.
+ Ce stage devait donc servir le triple objectif de me permettre de pratiquer
+ la comptabilité, de m'aider à me vendre sur le marché du travail, et enfin
+ de voir si j'étais de la peau dont on fait des entrepreneurs.
+ Néanmoins, la pratique est toujours pleine de surprises.
+ Comme l'a dit un célèbre philosophe: 
+\begin_inset Quotes fld
+\end_inset
+
+tout le monde a un plan, jusqu’à ce qu’il se prenne une droite dans la gueule
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+présentation succinte de l'entreprise, limitée par un accord de confidentialité.
+ 
+\end_layout
+
+\begin_layout Subsection
+activité et historique succints
+\end_layout
+
+\begin_layout Standard
+Cette pme d'une dizaine de salariés effectue la maintenance de certains
+ automatismes de bâtiments.
+ Elle a été reprise récemment par d'anciens salariés.
+ 
+\end_layout
+
+\begin_layout Subsection
+structure
+\end_layout
+
+\begin_layout Standard
+
+\end_layout
+
+\begin_layout Section
+historique de l'entreprise: une comptable devenue gestionnaire
+\end_layout
+
+\begin_layout Standard
+Elle a été reprise par deux employés de la société, le chef de chantier,
+ et le comptable, devenu en plus gérant.
+ Ce dernier est donc en constante recherche d'efficacité.
+ C'est auprès de ce dernier que ce stage s'est déroulé.
+ 
+\end_layout
+
+\begin_layout Section
+chiffres clef: nda
+\end_layout
+
+\begin_layout Standard
+l'accord de confidentialité m'empêche d'en donner les chiffres clef
+\end_layout
+
+\begin_layout Part
+présentation du système d'information
+\end_layout
+
+\begin_layout Standard
+systeme informatique
+\end_layout
+
+\begin_layout Standard
+schema comptable
+\end_layout
+
+\begin_layout Standard
+organigramme
+\end_layout
+
+\begin_layout Standard
+missions effectuées
+\end_layout
+
+\begin_layout Part
+activités présentées
+\end_layout
+
+\begin_layout Standard
+Problematique: sujet qui traite d'un theme abordé pendant ton stage, du
+ style DEB ou bien reporting...
+ il ya un vaste choix d'options
+\end_layout
+
+\begin_layout Section
+processus client
+\end_layout
+
+\begin_layout Section
+gestion des stocks
+\end_layout
+
+\begin_layout Section
+processus fournisseur
+\end_layout
+
+\begin_layout Section
+processus tva
+\end_layout
+
+\begin_layout Section
+gestion budgétaire et de trésorerie
+\end_layout
+
+\begin_layout Part*
+Présentation d'une problématique: 
+\begin_inset Quotes eld
+\end_inset
+
+si non confectus, non reficiat
+\begin_inset Quotes erd
+\end_inset
+
+ (ne répare pas ce qui n'est pas cassé) 
+\end_layout
+
+\begin_layout Part
+conclusion 
+\end_layout
+
+\begin_layout Itemize
+savoir être dans rapport avec le client mauvais payeur et les banques
+\end_layout
+
+\begin_layout Itemize
+recettes de comptabilité: la vérification par pointage et par somme
+\end_layout
+
+\begin_layout Itemize
+l'humour
+\end_layout
+
+\begin_layout Itemize
+humilité, simplicité
+\end_layout
+
+\begin_layout Itemize
+un système qui bourrine sa race
+\end_layout
+
+\begin_layout Itemize
+ouverture: on n'est pas là pour faire du papier.
+ 
+\end_layout
+
+\begin_layout Itemize
+combien de route jusque l'entreprenariat? 
+\end_layout
+
+\end_body
+\end_document

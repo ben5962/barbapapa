@@ -1,0 +1,221 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+Epreuve: 25 minutes préparation, 50 minutes d'épreuve
+\end_layout
+
+\begin_layout Itemize
+10 minutes compte rendu du stage (pas d'interruption, conduire le staff
+ à certaines questions) avec le rapport.
+ notes : 1/5 ème de la note sur le rapport, pas la peine de s'exciter.
+ Qualité expression et syntaxe, rigueur vocabulaire pro, pertinence des
+ comptes rendus.
+ 
+\end_layout
+
+\begin_layout Itemize
+15 minutes d'entretien sur le stage.
+ héhéhé.
+ 2/5 ème.
+ structuration de l'exposé (cf science po), qualité expression orale (s'enregist
+er, s'écouter), qualité de l'écoute et du dialogue (yoga, par coeur pour
+ concentration), qualité de l'argumentation (discussions avec barbara, technique
+s argumentatives...
+ mais où?)
+\end_layout
+
+\begin_layout Itemize
+25 minutes de pratique sur poste informatique, avec pour support les aps.
+ Justifier et expliquer ses démarches, méthodes et opérations (...
+ cf guide aps) (gros boulot.
+ il va falloir répéter et répéter et répéter) 
+\end_layout
+
+\begin_layout Standard
+le mémoire de 10 pages sert à permettre aux examinateurs de poser des questions.
+\end_layout
+
+\begin_layout Standard
+dc cf 
+\begin_inset Quotes eld
+\end_inset
+
+le business plan en une page
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+sur couverture cartonnée de qualité: nom, prénom, BTS Comptabilité et gestion
+ des organisations, Dossier mémoire 2013
+\end_layout
+
+\begin_layout Standard
+ensuite mémoire
+\end_layout
+
+\begin_layout Section
+INTRO: présentation entreprise
+\end_layout
+
+\begin_layout Subsection
+identité
+\end_layout
+
+\begin_layout Subsection
+localité géographique
+\end_layout
+
+\begin_layout Subsection
+historique de ses activités
+\end_layout
+
+\begin_layout Subsection
+structure d'organisation
+\end_layout
+
+\begin_layout Subsection
+service dans lequel le stage a été effectué.
+ 
+\end_layout
+
+\begin_layout Section
+SYNTHESE des travaux effectués
+\end_layout
+
+\begin_layout Standard
+poste et responsabilités exercées, objectifs, mission.
+ enrichissement connaissances et compétences.
+ 
+\end_layout
+
+\begin_layout Subsection
+exposé des travaux réalisés
+\end_layout
+
+\begin_layout Subsubsection
+aspects des activites et processus de gestion du service où je suis stagiaire
+\end_layout
+
+\begin_layout Subsubsection
+structure du si et particulièrement si comptable:
+\end_layout
+
+\begin_layout Paragraph
+matériel (ordinateurs réseau imprimantes unités de stockage)
+\end_layout
+
+\begin_layout Paragraph
+méthodes (logiciels procédures règlements)
+\end_layout
+
+\begin_layout Paragraph
+personnels (qui utilise quel matériel)
+\end_layout
+
+\begin_layout Subsubsection
+si comptable 
+\end_layout
+
+\begin_layout Paragraph
+traitement classique ou en système centralisateur des données comptables?
+\end_layout
+
+\begin_layout Paragraph
+comptabilité autonome, semi-intégrée ou intégrée?
+\end_layout
+
+\begin_layout Paragraph
+progiciels de gestion utilisés (noms caractéristiques et fonctions de base)
+ 
+\end_layout
+
+\begin_layout Subsection
+méthodes et techniques mises en oeuvre
+\end_layout
+
+\begin_layout Subsection
+résultats obtenus et analyse
+\end_layout
+
+\begin_layout Standard
+l'objet du stage et ses principaux résultats
+\end_layout
+
+\begin_layout Standard
+ce qui reste à terminer par l'entreprise (si stage trop court par rapport
+ au sujet demandé)
+\end_layout
+
+\begin_layout Standard
+effet de mon apport et évolutions à prévoir
+\end_layout
+
+\begin_layout Standard
+ce que le stage a apporté et, peut-être, projets.
+ 
+\end_layout
+
+\end_body
+\end_document
